@@ -177,6 +177,10 @@ img {
   font-weight: 600;
   border-bottom: 2px dashed #C0C0C0;
 }
+.navigation-header h1:hover {
+  transition-property: scale(1.1);
+  transition-duration: 1s;
+}
 @media (max-width: 500px) {
   .navigation-header {
     flex-wrap: wrap;
