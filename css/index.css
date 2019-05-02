@@ -198,6 +198,9 @@ img {
   font-size: 1.6rem;
   padding: 20px;
 }
+.home {
+  font-weight: 600;
+}
 .home .main-header {
   margin: 0 0 50px;
   padding: 15px 0;
@@ -251,4 +254,13 @@ img {
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+}
+.home .content-pick .destination .btn {
+  background: #1b797e;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 2rem;
+  border: 2px solid #C0C0C0;
 }
